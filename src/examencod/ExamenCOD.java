@@ -28,6 +28,5 @@ j++;
 }
 return aux;
   } 	 
-
     
 }
